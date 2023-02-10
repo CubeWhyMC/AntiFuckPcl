@@ -2,7 +2,7 @@
 
 ## What's this
 
-A package bypass UnlegitMC/FuckPCL crack
+A package bypass UnlegitMC/FuckPCL check
 
 ## How to use
 
